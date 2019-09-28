@@ -1,2 +1,3 @@
 # Aarambh
-I have worked in this project in Service4Startup company and all the pages is developed by me which I have included in this project .
+ 
+This is the web pages that I have developed while doing my internship for Service4Startup company 
